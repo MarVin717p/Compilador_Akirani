@@ -1,0 +1,6 @@
+clase pruebamal3 
+boolean tortillas;
+{
+tortillas=true;
+System.out.println(tortillas);
+}

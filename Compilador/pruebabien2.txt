@@ -1,0 +1,8 @@
+class pruebabien2 {
+azul = true;
+papas = 5;
+peras = 2;
+System.out.println(azul);
+while(peras<papas)
+papas = papas + papas;
+}

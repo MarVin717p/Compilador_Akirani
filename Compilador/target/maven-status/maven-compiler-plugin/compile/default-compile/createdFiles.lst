@@ -1,0 +1,14 @@
+Compilador\Triple$1.class
+Compilador\Scanner.class
+Compilador\Semantico$ValorTipo.class
+Compilador\Semantico.class
+Main\AnalizadorLexico.class
+Compilador\Parser.class
+Compilador\Semantico$InfoVariable.class
+GUICompilador\Windowgui$1.class
+GUICompilador\Windowgui.class
+GUICompilador\Windowgui$2.class
+Compilador\GeneradorCodigoObjeto.class
+Compilador\GeneradorCodigoIntermedio.class
+Compilador\tipoID.class
+Compilador\Triple.class

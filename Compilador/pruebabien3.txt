@@ -1,0 +1,9 @@
+class pruebabien3 
+	boolean a3;
+ {
+	
+	while(true)
+	a3 = false;
+
+
+}

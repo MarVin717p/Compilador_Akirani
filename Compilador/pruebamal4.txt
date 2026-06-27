@@ -1,0 +1,7 @@
+class pruebamal4 
+int x;
+boolean y;
+{
+suma = x + 15;
+System.out.println(suma);
+}

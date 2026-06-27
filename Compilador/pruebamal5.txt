@@ -1,0 +1,14 @@
+class pruebamal5
+int y;
+int x;
+{
+	{
+x = 456;
+System.out.println(x);
+while (true)
+y = 100;
+aux = y;
+v = true;
+	}
+   } 
+}

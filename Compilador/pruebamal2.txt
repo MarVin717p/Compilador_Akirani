@@ -1,0 +1,7 @@
+class pruebamal2 {
+int x;
+boolean y;
+
+x=5;
+System.out.println(x);
+  }

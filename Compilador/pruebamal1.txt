@@ -1,0 +1,10 @@
+class pruebamal1 
+	int a3;
+	int b2;
+{
+a3 = 5;
+b2 = 2;
+while(a3>b2)
+System.out.println(a3);
+
+}

@@ -1,0 +1,13 @@
+class prueba 
+int x;
+int y;
+int c;
+{
+x = 2;
+y = 5;
+c = 1;
+while(x<y){
+x=x+c;
+println(x);
+}
+}
